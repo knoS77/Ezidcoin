@@ -1,0 +1,8 @@
+# Исключаем node_modules
+node_modules/
+
+# Исключаем временные файлы
+*.log
+.cache/
+dist/
+build/
