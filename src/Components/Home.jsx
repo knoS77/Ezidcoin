@@ -21,9 +21,6 @@ const Home = () => {
       <section id="one">
         <div className="one__container">
         <h1>{translations[language].Welcome}</h1>
-        <div className="one__text">
-          {/* <p>{translations[language].Welcome}</p> */}
-        </div>
           <div className="one__button">
             <a target="_blank" rel="noreferrer"  href="https://app.ston.fi/swap?chartVisible=true&chartInterval=all&ft=USD%25E2%2582%25AE&tt=EQBqeG-XDp2nMojL8FQpXNMsjCHujHcXKLRI5vPwv6UXAjpX">
               <button>{translations[language].BuyEzidcoin}</button>
