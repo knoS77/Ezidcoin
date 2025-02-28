@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Ezidcoin/static/css/main.74866b24.css",
+    "main.js": "/Ezidcoin/static/js/main.2e1c1de5.js",
+    "static/media/ston.svg": "/Ezidcoin/static/media/ston.6736e0d748e5054dc4bb72bbef6497dd.svg",
+    "static/media/dex.svg": "/Ezidcoin/static/media/dex.c222feaf4ea18440d8f6eab755759e8b.svg",
+    "static/media/sun.png": "/Ezidcoin/static/media/sun.e891449c43619e932613.png",
+    "static/media/bybit.svg": "/Ezidcoin/static/media/bybit.bbc5b7d52159af8faad4c43837cd63e4.svg",
+    "static/media/blum.png": "/Ezidcoin/static/media/blum.92dd7faa67bb0559e921.png",
+    "static/media/telegram.svg": "/Ezidcoin/static/media/telegram.53f68a2c93f91f760ee42d36839d48a2.svg",
+    "index.html": "/Ezidcoin/index.html",
+    "main.74866b24.css.map": "/Ezidcoin/static/css/main.74866b24.css.map",
+    "main.2e1c1de5.js.map": "/Ezidcoin/static/js/main.2e1c1de5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74866b24.css",
+    "static/js/main.2e1c1de5.js"
+  ]
+}
