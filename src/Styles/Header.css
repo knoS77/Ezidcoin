@@ -2,13 +2,12 @@
 
 header{
     display: flex;
-    align-items: center;
     justify-content: space-between;
     margin: 10px;
 }
 .header__container{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
 
