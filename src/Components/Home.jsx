@@ -36,19 +36,19 @@ const Home = () => {
           </div>
           <div className="two__container-img">
               <a target="_blank" rel="noreferrer" href="https://www.bybit.com">
-                <img src={bybit} alt="" />
+                <img src={bybit} alt="Bybit" />
                 <p>Bybit</p>
               </a>
               <a target="_blank" rel="noreferrer"  href="https://app.ston.fi">
-                <img src={ston} alt="" />
+                <img src={ston} alt="Ston.fi" />
                 <p>Ston.fi</p>
               </a>
               <a target="_blank" rel="noreferrer"  href="https://t.me/Blum">
-                <img src={blum} alt="" />
+                <img src={blum} alt="Blum" />
                 <p>Blum</p>
               </a>
               <a target="_blank" rel="noreferrer"  href="https://dexscreener.com">
-                <img src={dex} alt="" />
+                <img src={dex} alt="Dexscreener" />
                 <p>DEX</p>
               </a>
           </div>
