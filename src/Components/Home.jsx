@@ -28,12 +28,15 @@ const Home = () => {
           </div>
         </div>
       </section>
+
       <section id="two">
         <div className="two__container">
           <h2> {translations[language].WhereIsItUsed} <span>Ezidcoin</span> </h2>
           <div className="two__about">
             {translations[language].AboutEzidcoin}
           </div>
+
+
           <div className="two__container-img">
               <a target="_blank" rel="noreferrer" href="https://www.bybit.com">
                 <img src={bybit} alt="Bybit" />
@@ -52,6 +55,10 @@ const Home = () => {
                 <p>DEX</p>
               </a>
           </div>
+
+
+
+          
         </div>
       </section>
 
@@ -82,7 +89,6 @@ const Home = () => {
         </div>
         </div>
       </section>
-
 
       <section id="four">
         <h2>F.A.Q</h2>

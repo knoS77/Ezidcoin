@@ -60,6 +60,9 @@ span {
     text-align: center;
     margin: 20px 0px;
 }
+.two__container-img a {
+    text-decoration: none;
+}
 .two__container-img img{
 border-radius: 50%;
 width: 90px;
