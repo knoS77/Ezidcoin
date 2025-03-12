@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ezidcoin/static/css/main.57b901c6.css",
-    "main.js": "/Ezidcoin/static/js/main.22a95216.js",
+    "main.css": "/Ezidcoin/static/css/main.d1ca9071.css",
+    "main.js": "/Ezidcoin/static/js/main.5e37d63e.js",
     "static/media/ston.svg": "/Ezidcoin/static/media/ston.6736e0d748e5054dc4bb72bbef6497dd.svg",
     "static/media/dex.svg": "/Ezidcoin/static/media/dex.c222feaf4ea18440d8f6eab755759e8b.svg",
     "static/media/sun.png": "/Ezidcoin/static/media/sun.e891449c43619e932613.png",
@@ -9,11 +9,11 @@
     "static/media/blum.png": "/Ezidcoin/static/media/blum.92dd7faa67bb0559e921.png",
     "static/media/telegram.svg": "/Ezidcoin/static/media/telegram.53f68a2c93f91f760ee42d36839d48a2.svg",
     "index.html": "/Ezidcoin/index.html",
-    "main.57b901c6.css.map": "/Ezidcoin/static/css/main.57b901c6.css.map",
-    "main.22a95216.js.map": "/Ezidcoin/static/js/main.22a95216.js.map"
+    "main.d1ca9071.css.map": "/Ezidcoin/static/css/main.d1ca9071.css.map",
+    "main.5e37d63e.js.map": "/Ezidcoin/static/js/main.5e37d63e.js.map"
   },
   "entrypoints": [
-    "static/css/main.57b901c6.css",
-    "static/js/main.22a95216.js"
+    "static/css/main.d1ca9071.css",
+    "static/js/main.5e37d63e.js"
   ]
 }
