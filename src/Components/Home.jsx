@@ -55,13 +55,8 @@ const Home = () => {
                 <p>DEX</p>
               </a>
           </div>
-
-
-
-          
         </div>
       </section>
-
       <section id="three">
               <h2>{translations[language].Price}</h2>
         <div className="three__container">
@@ -91,7 +86,7 @@ const Home = () => {
       </section>
 
       <section id="four">
-        <h2>F.A.Q</h2>
+        <h2>FAQ</h2>
         <div className="four__container">
           <Faq/>
         </div>

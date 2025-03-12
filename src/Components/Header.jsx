@@ -50,7 +50,7 @@ const Header = () => {
               <a href="#three">{translations[language].Price}</a>
             </li>
             <li>
-              <a href="#four">F.A.Q</a>
+              <a href="#four">FAQ</a>
             </li>
 
             {/* Выбор языка */}

@@ -4,7 +4,7 @@ header{
     display: flex;
     
     justify-content: space-between;
-    margin: 15px; 
+    margin: 22px; 
 }
 .header__container{
     display: flex;
